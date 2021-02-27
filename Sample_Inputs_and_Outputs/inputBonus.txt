@@ -1,0 +1,43 @@
+void f2(int y)
+{
+	y=y*2;
+}
+void function(int a, int b, int c)
+{
+	
+	f2(c);
+	if(a==b)
+	{
+		while(a > 10)
+		{
+			if(a==b && a > 10 ||a < 10)
+			{
+
+			}
+		}
+	}
+}
+void f3()
+{
+	int a;
+	a=5/3-t+f/2*l;
+	if(Burak == Kamirin)
+	{
+		while(Doguhan != Mete)
+		{
+		function(Burak,Ahmet,yusuf);
+		}
+	}
+
+}
+void main()
+{
+	if(x==b)
+	{
+		int a;
+		a=5;
+	}
+	a=a+2;
+	function(x,3,1);
+	f3();
+}

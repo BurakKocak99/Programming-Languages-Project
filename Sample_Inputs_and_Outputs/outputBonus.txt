@@ -1,0 +1,28 @@
+void main()
+{
+	if( x == b )
+	{
+		int a;
+		a=5;
+	}
+	a=a+2;
+	{
+		int a = x;
+		int b = 3;
+		int c = 1;
+		{
+			int y = c;
+			y=y*2;
+		}
+		if( a == b )
+		{
+			while( a > 10 )
+			{
+				if( a == b&&a > 10||a < 10 )
+				{
+				}
+			}
+		}
+	}
+
+}
